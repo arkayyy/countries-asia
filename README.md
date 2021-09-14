@@ -10,7 +10,9 @@ This web application fetches the list of all countries along with their details 
 
 ![image](https://user-images.githubusercontent.com/72148786/133234764-f2b604ef-d6dd-487e-bcf7-b400a381abdc.png)
 
+![miskaa4](https://user-images.githubusercontent.com/72148786/133246494-148e009f-b765-4e7d-92c2-9973781aae61.PNG)
 
+![miskaa5](https://user-images.githubusercontent.com/72148786/133246520-b57795db-c8d7-44e8-9356-d3d77a36dcda.PNG)
 
 ## Available Scripts
 
