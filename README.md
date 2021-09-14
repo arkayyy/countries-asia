@@ -1,6 +1,6 @@
 # Countries in Asia - Miskaa Assignment
 
-This project has been made as a part of the assignment given by Miskaa on Internshala.
+This web application fetches the list of all countries along with their details such as languages, population,etc using the REST Countries API (https://restcountries.eu/). This project has been made as a part of the assignment given by Miskaa on Internshala.
 
 ## Screenshots
 
